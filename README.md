@@ -10,10 +10,10 @@ Official high-definition motion graphics tutorials for parents of **The Maitrebu
 
 | Edition | Resolution | Aspect Ratio | Quality / Audio | Direct Download |
 | :--- | :--- | :--- | :--- | :--- |
-| **1080p Studio Master — Widescreen** *(Live)* | `1920 × 1080` | `16:9` (YouTube, Laptop, TV, Website) | Unthrottled `CRF 15` (`56 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 1080p 16:9 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/01_Parent_Portal_SignUp_and_Login_1080p_MaxQuality_16x9.mp4)** |
-| **1080p Studio Master — Vertical** *(Live)* | `1080 × 1920` | `9:16` (WhatsApp Status, Reels, TikTok, Shorts) | Unthrottled `CRF 15` (`57 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 1080p 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/01_Parent_Portal_SignUp_and_Login_1080p_MaxQuality_9x16.mp4)** |
-| **4K Ultra HD — Widescreen** *(Rendering)* | `3840 × 2160` (`2160p 4K`) | `16:9` (4K Displays, YouTube 4K, Projectors) | Native 4K Vector Render (`~92 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 4K 16:9 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/01_Parent_Portal_SignUp_and_Login_4K_UHD_16x9.mp4)** |
-| **4K Ultra HD — Vertical** *(Rendering)* | `2160 × 3840` (`2160p 4K`) | `9:16` (4K Mobile, Reels, TikTok, Shorts) | Native 4K Vector Render (`~92 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 4K 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/01_Parent_Portal_SignUp_and_Login_4K_UHD_9x16.mp4)** |
+| **4K Ultra HD — Widescreen** *(Live)* | `3840 × 2160` (`2160p 4K`) | `16:9` (4K Displays, YouTube 4K, Projectors, Laptop) | Native 4K Vector Render (`77 MB`, `CRF 17`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 4K 16:9 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/01_Parent_Portal_SignUp_and_Login_4K_UHD_16x9.mp4)** |
+| **4K Ultra HD — Vertical** *(Rendering)* | `2160 × 3840` (`2160p 4K`) | `9:16` (4K Mobile, Reels, TikTok, Shorts) | Native 4K Vector Render (`~65 MB`, `CRF 18`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 4K 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/01_Parent_Portal_SignUp_and_Login_4K_UHD_9x16.mp4)** |
+| **1080p Studio Master — Widescreen** *(Live)* | `1920 × 1080` (`Full HD`) | `16:9` (Universal Desktop, TV & Website) | Unthrottled `CRF 15` (`55 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 1080p 16:9 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/01_Parent_Portal_SignUp_and_Login_1080p_MaxQuality_16x9.mp4)** |
+| **1080p Studio Master — Vertical** *(Live)* | `1080 × 1920` (`Full HD`) | `9:16` (WhatsApp Status & Groups, Reels, TikTok) | Unthrottled `CRF 15` (`56 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 1080p 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/01_Parent_Portal_SignUp_and_Login_1080p_MaxQuality_9x16.mp4)** |
 
 ---
 

@@ -4,6 +4,23 @@ Official high-definition motion graphics tutorials for parents of **The Maitrebu
 
 ---
 
+## 🎬 Video 02: How to Pay School Fees & Download Official Receipts (`01:13`)
+
+### 📥 Direct One-Click Video Downloads
+
+| Edition | Resolution | Aspect Ratio | Quality / Audio | Direct Download |
+| :--- | :--- | :--- | :--- | :--- |
+| **4K Ultra HD — Vertical** | `2160 × 3840` (`2160p 4K`) | `9:16` (4K Mobile, Reels, TikTok, Shorts) | Native 4K Vector Render (`47 MB`, `CRF 18`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 4K 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/02_Parent_Portal_Pay_School_Fees_4K_UHD_9x16.mp4)** |
+| **1080p Studio Master — Vertical** | `1080 × 1920` (`Full HD`) | `9:16` (WhatsApp Status & Groups, Reels, TikTok) | Unthrottled `CRF 15` (`41 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 1080p 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/02_Parent_Portal_Pay_School_Fees_1080p_MaxQuality_9x16.mp4)** |
+
+### What Video 02 Covers
+1. **Opening School Fees** — Tapping **School Fees** or **Pay Fees** right from your Parent Dashboard.
+2. **Fee Summary & Itemized Breakdown** — Reviewing *Total Fees*, *Amount Paid*, and *Balance Due*, expanding **View Fee Breakdown**, and tapping **Pay Now**.
+3. **Enter Amount & Make Payment** — Entering the fee amount, tapping **Pay** to make payment, and completing checkout securely via **Paystack** (*Card*, *Bank Transfer*, or *USSD*) with upfront gateway fee display and automatic verification.
+4. **Official Stamped Receipt & PDF Download** — Opening **Payment Receipts**, viewing your official perforated receipt (*Paid* status, itemized breakdown, verification QR code, and school signatures), and tapping **Download PDF**.
+
+---
+
 ## 🎬 Video 01: How to Create a Parent Account & Sign In (`01:38`)
 
 ### 📥 Direct One-Click Video Downloads (All Live)

@@ -4,9 +4,26 @@ Official high-definition motion graphics tutorials for parents of **The Maitrebu
 
 ---
 
+## 🎬 Video 04: How to Message Class Teachers & Submit Absence Reasons (`01:02`)
+
+### 📥 Direct One-Click Video Downloads (All Live)
+
+| Edition | Resolution | Aspect Ratio | Quality / Audio | Direct Download |
+| :--- | :--- | :--- | :--- | :--- |
+| **4K Ultra HD — Vertical** | `2160 × 3840` (`2160p 4K`) | `9:16` (4K Mobile, Reels, TikTok, Shorts) | Native 4K Vector Render (`36 MB`, `CRF 18`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 4K 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/04_Parent_Portal_Message_Teachers_and_Explain_Absences_4K_UHD_9x16.mp4)** |
+| **1080p Studio Master — Vertical** | `1080 × 1920` (`Full HD`) | `9:16` (WhatsApp Status & Groups, Reels, TikTok) | Unthrottled `CRF 15` (`31 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 1080p 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/04_Parent_Portal_Message_Teachers_and_Explain_Absences_1080p_MaxQuality_9x16.mp4)** |
+
+### What Video 04 Covers
+1. **Opening Parent Messages** — Accessing direct chat via the **Messages** tile at the top of your Parent Dashboard or tapping **Chat Teacher** right on your child's card.
+2. **Selecting Your Child's Assigned Class Teacher** — Viewing your automatically linked class teacher in the **Messages** list and tapping their name to open your private conversation.
+3. **Instant Messaging, Read Checkmarks & Replies** — Typing a question or update, tapping **Send**, seeing sky-blue read checkmarks (`✓✓`), and receiving your class teacher's reply directly in the thread.
+4. **Explaining School Absences in One Tap** — Spotting an **Unexplained Absence** alert on your child's card, tapping **Give Reason**, submitting why your child missed school, and automatically updating attendance while notifying the class teacher in chat.
+
+---
+
 ## 🎬 Video 03: How to Check Termly Results & Download Official Report Cards (`01:08`)
 
-### 📥 Direct One-Click Video Downloads
+### 📥 Direct One-Click Video Downloads (All Live)
 
 | Edition | Resolution | Aspect Ratio | Quality / Audio | Direct Download |
 | :--- | :--- | :--- | :--- | :--- |

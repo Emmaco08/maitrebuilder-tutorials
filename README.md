@@ -4,6 +4,23 @@ Official high-definition motion graphics tutorials for parents of **The Maitrebu
 
 ---
 
+## 🎬 Video 05: How to Write School Reviews, Report Issues & Manage Your Profile (`01:03`)
+
+### 📥 Direct One-Click Video Downloads (All Live)
+
+| Edition | Resolution | Aspect Ratio | Quality / Audio | Direct Download |
+| :--- | :--- | :--- | :--- | :--- |
+| **4K Ultra HD — Vertical** | `2160 × 3840` (`2160p 4K`) | `9:16` (4K Mobile, Reels, TikTok, Shorts) | Native 4K Vector Render (`38 MB`, `CRF 18`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 4K 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/05_Parent_Portal_Reviews_Report_Issues_and_Profile_4K_UHD_9x16.mp4)** |
+| **1080p Studio Master — Vertical** | `1080 × 1920` (`Full HD`) | `9:16` (WhatsApp Status & Groups, Reels, TikTok) | Unthrottled `CRF 15` (`33 MB`) · `320 kbps` 48 kHz Stereo | **[⬇ Download 1080p 9:16 Master](https://github.com/Emmaco08/maitrebuilder-tutorials/raw/main/videos/05_Parent_Portal_Reviews_Report_Issues_and_Profile_1080p_MaxQuality_9x16.mp4)** |
+
+### What Video 05 Covers
+1. **Writing a School Review (`Testimonials`)** — Tapping **Write Review** on your Parent Dashboard, selecting **+ Write a Review**, rating up to 5 stars, writing your experience within 100 characters, and submitting it for approval.
+2. **Reporting an Issue Confidentially** — Tapping **Report Issue** on your Parent Dashboard, entering a title, choosing a category (*Academic*, *Teacher Related*, *Fees & Payment*, *School Facility*, *Bullying / Harassment*, or *Other*), describing your concern within 100 words, and tapping **Submit Report**.
+3. **Opening the Mobile Portal Sidebar** — Tapping the circular menu button next to your welcome greeting to slide out your full portal navigation drawer and selecting **My Profile**.
+4. **Updating Your Profile & Password** — Changing your profile photo via the camera icon, updating your phone number, home address, or password, and tapping **Save Changes**.
+
+---
+
 ## 🎬 Video 04: How to Message Class Teachers & Submit Absence Reasons (`01:02`)
 
 ### 📥 Direct One-Click Video Downloads (All Live)
